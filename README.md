@@ -1,1 +1,1 @@
-# Vite React Debug Example
+# Vite React Debug Example Project
